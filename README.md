@@ -1,2 +1,3 @@
-# progfun2
-Functional Program Design in Scala
+# Functional Program Design in Scala
+ 
+ **Final Course Grade**: 
