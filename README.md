@@ -15,3 +15,5 @@ Learning Outcomes. By the end of this course you will be able to:
  - understand reasoning techniques for programs that combine 
    functions and state,
  - write simple functional reactive applications.
+
+**Meet the instructor**: Martin Odersky. Computer Science. École Polytechnique Fédérale de Lausanne
