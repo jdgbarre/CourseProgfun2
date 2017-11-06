@@ -1,4 +1,4 @@
-# Functional Program Design in Scala
+# Functional Program Design in Scala | Coursera
  
  **Final Course Grade**: 
 
